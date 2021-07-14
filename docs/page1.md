@@ -1,7 +1,4 @@
-<html>
-<head> How this appears? </head>
-<body> 12345 </body>
-</html>
+How this appears? 12345 
 
 <html>
 <head>
