@@ -3,7 +3,7 @@
   <body> 1234 </body>
 </html>
 
-[NextPage](docs/page1)
+[NextPage](docs/index.html)
 
 
 
