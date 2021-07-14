@@ -3,4 +3,4 @@
   <body> 1234 </body>
 </html>
 
-[NextPage](https://github.com/ukr11/nasatt/blob/docs/docs/page1)
+[NextPage](docs/page1)
